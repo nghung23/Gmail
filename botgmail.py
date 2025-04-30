@@ -36,8 +36,9 @@ async def mail(update: Update, context: ContextTypes.DEFAULT_TYPE):
             "3. Mk: minhtu99@\n"
             "4. Ngày: (tự động)\n"
             "5. Tổng: (tự động)\n"
-            "gmail1@gmail.com\n"
-            "gmail2@gmail.com"
+            "thihoan9272@gmail.com\n"
+            "nguyenhoang8264@gmail\n"
+            "anhtu27383@gmail\n"
         )
         return
 
