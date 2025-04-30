@@ -4,7 +4,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, Messa
 from datetime import datetime, timedelta
 
 # --- CẤU HÌNH ---
-BOT_TOKEN = 'YOUR_BOT_TOKEN'  # Thay bằng token bot của bạn
+BOT_TOKEN = '7759254055:AAGrwcbXaClF_iJG1VuKa43JtXmeA45tY1Y'  # Thay bằng token bot của bạn
 ADMIN_CHAT_ID = 5529113729    # Telegram ID của admin
 GROUP_CHAT_ID = -1002557003660  # ID nhóm
 
